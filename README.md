@@ -57,32 +57,16 @@ pythonclass IrfanKarimi:
 
 <!-- ==================== TECH STACK ==================== -->
 > TECH_STACK --list
-📱 Mobile & Cross-Platform
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🔐 Security & Pentesting
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-⚙️ Tools & Infra
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 <!-- ==================== GITHUB STATS ==================== -->
 > STATS --verbose
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfan-karimi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&icon_color=00ff41"/>
+<img height="180em" src="https://github.com/irfan-karimi/irfan-karimi/blob/output/github-contribution-grid-snake-dark.svg"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-karimi&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33"/>
+<img height="180em" src="https://github.com/irfan-karimi/irfan-karimi/blob/output/github-contribution-grid-snake.svg"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-karimi&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=555555" />
 </div>
@@ -124,25 +108,20 @@ Deploys randomly between: SHIP IT · BUG FOUND · REFACTOR · CODE REVIEW · COF
 <!-- ==================== SPOTIFY NOW PLAYING ==================== -->
 > AUDIO_FEED --live
 <div align="center">
-Show Image
 
+<img src="https://img.shields.io/badge/Spotify-Listening_to_something_dark-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
 🎵 Deploy novatorem with your Spotify account to show what you're listening to live.
 
 </div>
 
-<!-- ==================== TROPHIES ==================== -->
-> ACHIEVEMENTS --scan
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=irfan-karimi&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
 
 <!-- ==================== CONTACT ==================== -->
 > CONNECT --open-channel
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+
+<p align="center">
+<a href="https://instagram.com/irfan_karim_haji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfan_karim_haji" height="30" width="40" /></a>
+</p>
 </div>
 
 <!-- ==================== FOOTER ==================== -->
